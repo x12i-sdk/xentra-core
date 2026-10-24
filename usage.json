@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/xentra-core",
+  "packageVersion": "0.2.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/xentra-core",
+  "usageRepository": "https://github.com/x12i-sdk/xentra-core",
+  "sourceRepository": "https://github.com/x12i/xentra",
+  "sourceCommit": "004372e6695509bf2e95d2e4e53d4534e81dd312",
+  "sourcePackageDirectory": "packages/core",
+  "example": {
+    "title": "Create account and membership domain models",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:38:11.335973+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "2627ca073a0a25e0bdcc5b73a2c22c165c517125003faa63c3bd3a5f8530840b",
+    "manifestSha256": "61c244e141a6591b0cd998b18cebef4cfdf2b4eda1e14a9b952195e16add98d6"
+  }
+}
